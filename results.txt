@@ -1,0 +1,12 @@
+randist script run started on Thu Apr 28 08:52:40 2016
+run on machine eecad15.engr.sjsu.edu
+
+Run with a clock period of 4.54545454545
+student names
+  Victor J Abarca  4634
+options syn False gates False
+VCS simulation worked
+NCverilog simulation worked
+Synthesis finished OK
+Gate level simulation worked
+Completed the randist run
